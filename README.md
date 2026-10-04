@@ -20,12 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 
 ---
 
-## 🌐 Let's Connect!
-- **GitHub**: [PhoenixR49](https://github.com/PhoenixR49)
-- **Email**: [phoenixr49@duck.com](mailto:phoenixr49@duck.com)
-
----
-
 ## 📊 GitHub Stats
 ![PhoenixR49's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhoenixR49&show_icons=true)
 
